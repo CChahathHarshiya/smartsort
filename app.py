@@ -7,7 +7,7 @@ import numpy as np
 import requests
 
 app = Flask(__name__)
-
+#moc
 # Ensure uploads folder exists
 UPLOAD_FOLDER = 'static/uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
